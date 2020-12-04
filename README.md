@@ -5,7 +5,7 @@
 - GitHub : https://github.com/JiHoonAHN
 - Facebook : https://www.facebook.com/profile.php?id=100026056959272
 - School : In Gwangju Software Meister High School/Korea   
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JiHoonAHN&show_icons=true&theme=tokyonight)
+![JiHoon's github stats](https://github-readme-stats.vercel.app/api?username=JiHoonAHN&show_icons=true&theme=tokyonight)
 
 
 
