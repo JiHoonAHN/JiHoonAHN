@@ -3,4 +3,4 @@
 - Email : ahnjh1028@naver.com
 - GitHub : https://github.com/JiHoonAHN
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JiHoonAHN)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JiHoonAHN&show_icons=true&theme=radical)
