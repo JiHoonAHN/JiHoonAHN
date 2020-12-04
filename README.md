@@ -6,4 +6,4 @@
 
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JiHoonAHN&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JiHoonAHN&show_icons=true&theme=tokyonight)
