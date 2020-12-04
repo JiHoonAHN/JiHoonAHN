@@ -7,6 +7,5 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JiHoonAHN&show_icons=true&theme=tokyonight)
 ![Design](https://user-images.githubusercontent.com/68891494/101183747-432c4800-3693-11eb-8b20-cd6bb1b0f90f.png)
-background-image:url('https://user-images.githubusercontent.com/68891494/101183747-432c4800-3693-11eb-8b20-cd6bb1b0f90f.png');
-background-size:200px;
+
 
