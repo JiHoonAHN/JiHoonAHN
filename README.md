@@ -7,6 +7,7 @@
 - School : In Gwangju Software Meister High School/Korea
 - Hobby : study android
 
+
 ![JiHoon's github stats](https://github-readme-stats.vercel.app/api?username=JiHoonAHN&show_icons=true&theme=tokyonight)
 
 
