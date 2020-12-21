@@ -11,4 +11,4 @@
 ![JiHoon's github stats](https://github-readme-stats.vercel.app/api?username=JiHoonAHN&show_icons=true&theme=tokyonight)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JiHoonAHN&layout=compact)](https://github.com/JiHoonAHN/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JiHoonAHN&layout=compact)
