@@ -9,7 +9,6 @@
 
 
 ![JiHoon's github stats](https://github-readme-stats.vercel.app/api?username=JiHoonAHN&show_icons=true&theme=tokyonight)
-
-<a href="https://github.com/siwony">
+<a href="https://github.com/JiHoonAHN">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiHoonAHN&layout=compact"/>
 </a>
