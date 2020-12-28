@@ -6,7 +6,7 @@
 - GitHub : https://github.com/JiHoonAHN
 - Facebook : https://www.facebook.com/profile.php?id=100026056959272
 - School : In Gwangju Software Meister High School/Korea
-
+- Major : iOS
 
 
 
