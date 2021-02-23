@@ -7,6 +7,8 @@
 - Facebook : https://www.facebook.com/profile.php?id=100026056959272
 - School : In Gwangju Software Meister High School/Korea
 - Major : iOS
+- Notion : https://www.notion.so/Introduce-bc54badeaa5a4a02b7d031820402163c
+
 
 
 ![{}'s github stats](https://github-readme-stats.vercel.app/api?username=JiHoonAHN&show_icons=true&&theme=dark)
